@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 *.dlt
+*setup_user.sql
 
 # C extensions
 *.so
