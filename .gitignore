@@ -3,7 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 
-*.dlt
+secrets.toml
 *setup_user.sql
 
 # C extensions
